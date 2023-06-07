@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="PlanetsMaui.app/PlanetsMaui">
+      <BCSymbolMapName>PlanetsMaui.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>PlanetsMaui.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/eltin/Projects/PlanetsMaui/PlanetsMaui/obj/Debug/net7.0-ios/iossimulator-x64/mtouch-symbols.list</SymbolFile>
+      <DSymName>PlanetsMaui.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/eltin/Projects/PlanetsMaui/PlanetsMaui</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
